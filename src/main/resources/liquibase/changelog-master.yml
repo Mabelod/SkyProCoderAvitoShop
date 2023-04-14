@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/scripts/ads_store.sql
